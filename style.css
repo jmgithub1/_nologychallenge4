@@ -1,0 +1,47 @@
+h1{
+    color: red;
+    text-decoration: underline
+}
+
+#sectionOne{
+    border-style: solid;
+}
+
+#basicStyle{
+    text-decoration: underline;
+}
+
+.blueP1{
+    color: blue;
+}
+
+#sectionThree{
+    border-style: dotted;
+    border-color: black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.blueP2{
+    color: blue;
+}
+
+#sectionTwo{
+    border-style: solid;
+    text-align: center;
+}
+
+.selectorUnder{
+    text-decoration: underline;
+    background-color: green;  
+}
+
+#Cat{
+    background-color: green;
+    font-style: italic;
+}
+
+.spareP{
+    color: white;
+    background-color: green;
+}
